@@ -4,10 +4,6 @@
 
 ##### Note: AIM is informally referred to as DNAMIC (Dartmouth Nautiyal Arduino Modular Instrumental Chamber) in the lab. Therefore I might use the two terms (AIM / DNAMIC) interchangeably to refer to the same thing.
 
-<p align="center">
-    <img src="https://media.giphy.com/media/iKFyMgWnooZwu8bYSN/giphy.gif" align=center width=500/><br>
-    <b><i>Figure 1:</b> Mouse interacting with the AIM box - Currently retrieving water reward from the middle port.</i>
-</p>
 
 <p align="left">
   <img src="readme_imgs/diagonal_view.jpg" align=center width=300/><br>

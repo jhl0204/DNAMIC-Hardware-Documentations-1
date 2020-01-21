@@ -43,7 +43,7 @@ ___
 ### Why should you use AIM?
 
 AIM has a couple of key benefits for any behavioral neuroscience labs trying to study adolescene in rodents.
-
+d
 
 - **1. Decreased Experiment Time**
     - Because subjects have 24 hour access to a specific paradigm, they learn quickly. Paradigms that typically takes months to train can be completed in just a matter of two weeks.
